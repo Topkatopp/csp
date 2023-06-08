@@ -1,8 +1,0 @@
-a = "a"
-while a == "a":
-	ab = input(">> ")
-	if ab == "help":
-		name = input("name>> ")
-		print("hi " + name)
-		endif
-	endwhile
