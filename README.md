@@ -1,6 +1,6 @@
 # csp
 
-information if you wanna run compile write in cmd: 'csp file'
+information if you wanna run compile write in cmd: 'csp {file name}'
 
 recomendation set the csp folder to the %PATH%
 
