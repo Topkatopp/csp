@@ -1,4 +1,9 @@
 # csp
+
+information if you wanna run compile write in cmd: 'csp file'
+
+recomendation set the csp folder to the %PATH%
+
 csp is compiler which compile a python code to the C# code
 
 the one of problem compiler is in not full working and a commands like a 'def' or others can be not work
